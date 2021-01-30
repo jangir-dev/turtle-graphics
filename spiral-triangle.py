@@ -4,6 +4,7 @@ def triangle(length):
     turtle.hideturtle()
     turtle.color('green')
     turtle.pensize(5)
+    turtle.speed(52)
     turtle.Screen().bgcolor("black")
     for i in range(3):
         for j in range(10):
